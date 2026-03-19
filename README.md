@@ -1,23 +1,23 @@
-# ml-model-comparison-toolkit
+# ml-model-comparison-toolkit :
 A machine learning toolkit that automatically trains and compares multiple models such as Logistic Regression, Decision Tree, Random Forest, and SVM on a dataset. Generates accuracy comparison and visualizations using Python and scikit-learn.
 
-# ML Model Comparison Toolkit
+# ML Model Comparison Toolkit :
 
-## Description
+## Description :
 This project is a machine learning toolkit that automatically trains and compares multiple classification models on a dataset.
 
-## Models Used
+## Models Used :
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
 
-## Technologies
+## Technologies :
 Python  
 scikit-learn  
 Matplotlib  
 
-## Result
+## Result :
 The toolkit evaluates model performance and visualizes accuracy comparisons.
 
 ## Future Improvements
