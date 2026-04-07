@@ -3,7 +3,7 @@ A machine learning toolkit that automatically trains and compares multiple model
 
 # ML Model Comparison Toolkit 
 
-## Description :
+## Description 
 This project is a machine learning toolkit that automatically trains and compares multiple classification models on a dataset.
 
 ## Models Used :
