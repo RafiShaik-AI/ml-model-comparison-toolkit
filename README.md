@@ -6,7 +6,7 @@ A machine learning toolkit that automatically trains and compares multiple model
 ## Description 
 This project is a machine learning toolkit that automatically trains and compares multiple classification models on a dataset.
 
-## Models Used :
+## Models Used :-
 - Logistic Regression
 - Decision Tree
 - Random Forest
