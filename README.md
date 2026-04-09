@@ -11,7 +11,7 @@ This project is a machine learning toolkit that automatically trains and compare
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
-
+ 
 ## Technologies :-
 Python  
 scikit-learn  
