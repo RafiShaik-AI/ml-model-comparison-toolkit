@@ -17,7 +17,7 @@ Python
 scikit-learn  
 Matplotlib  
 
-## Result : -
+## Result : 
 The toolkit evaluates model performance and visualizes accuracy comparisons.
 
 ## Future Improvements
