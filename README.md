@@ -21,4 +21,4 @@ Matplotlib
 The toolkit evaluates model performance and visualizes accuracy comparisons..
 
 ## Future Improvements
-Add support for more datasets, additional models, and automated hyperparameter tuning.
+Add support for more datasets, additional models, and automated hyperparameter tuning..
