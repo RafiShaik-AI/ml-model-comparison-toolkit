@@ -18,7 +18,7 @@ scikit-learn
 Matplotlib  
 
 ## Result : 
-The toolkit evaluates model performance and visualizes accuracy comparisons.
+The toolkit evaluates model performance and visualizes accuracy comparisons..
 
 ## Future Improvements
 Add support for more datasets, additional models, and automated hyperparameter tuning.
