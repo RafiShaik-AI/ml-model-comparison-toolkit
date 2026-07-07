@@ -1,4 +1,4 @@
-# ml-model-comparison-toolkit zxcvbnm123
+# ml-model-comparison-toolkit zxcvbnm12
 
 A machine learning toolkit that automatically trains and compares multiple models such as Logistic Regression, Decision Tree, Random Forest, and SVM on a dataset. Generates accuracy comparison and visualizations using Python and scikit-learn.
 
